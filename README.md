@@ -1,5 +1,5 @@
 # Twitter's user interface clone <img src="https://www.al.al.leg.br/imagens/Twitterlogo.png/image" width=30 />
-This project is a clone of twitter's UI using ReactJF for educational porposes.
+This project is a clone of twitter's UI using ReactJS.
 
 In the project directory, you can run:
 
